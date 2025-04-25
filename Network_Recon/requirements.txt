@@ -1,0 +1,4 @@
+whois
+dnspython
+requests
+beautifulsoup4

@@ -1,0 +1,6 @@
+=== Internal Network Scan Report ===
+Scan Time : 2025-04-25T03:54:50.693793Z
+Local IP  : 10.0.1.46
+Subnet    : 10.0.1.0/24
+
+No live hosts detected on the subnet.

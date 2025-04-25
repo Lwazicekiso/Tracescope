@@ -1,0 +1,7 @@
+{
+  "scan_type": "internal",
+  "local_ip": "10.0.1.46",
+  "subnet": "10.0.1.0/24",
+  "timestamp": "2025-04-25T03:54:50.693793Z",
+  "live_hosts": []
+}
