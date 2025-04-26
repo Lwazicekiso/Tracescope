@@ -1,0 +1,19 @@
+{
+    "domain": "google.com",
+    "whois": {},
+    "dns": {
+        "A_records": [
+            "142.250.67.238"
+        ],
+        "MX_records": [
+            "smtp.google.com"
+        ],
+        "NS_records": [
+            "ns2.google.com",
+            "ns1.google.com",
+            "ns3.google.com",
+            "ns4.google.com"
+        ]
+    },
+    "hosts": []
+}

@@ -66,8 +66,9 @@ By integrating proven open‑source utilities and Python libraries, Recon Tool p
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/recon-tool.git
-   cd recon-tool
+   git clone https://github.com/Lwazicekiso/Tracescope.git
+      git clone https://github.com/Lwazicekiso/Tracescope.git
+cd recon-tool
    ```
 
 2. **Create and activate a virtual environment**:

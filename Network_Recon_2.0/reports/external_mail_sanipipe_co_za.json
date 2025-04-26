@@ -1,0 +1,12 @@
+{
+    "domain": "mail.sanipipe.co.za",
+    "whois": {},
+    "dns": {
+        "A_records": [
+            "196.22.132.10"
+        ],
+        "MX_records": [],
+        "NS_records": []
+    },
+    "hosts": []
+}
