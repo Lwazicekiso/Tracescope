@@ -1,0 +1,37 @@
+{
+  "target": "google.com",
+  "timestamp": "2025-04-25T11:43:37.853420Z",
+  "recon_summary": {
+    "whois": {},
+    "dns_records": {
+      "A_records": [
+        "142.250.70.110"
+      ],
+      "MX_records": [
+        "smtp.google.com"
+      ],
+      "NS_records": [
+        "ns4.google.com",
+        "ns2.google.com",
+        "ns1.google.com",
+        "ns3.google.com"
+      ]
+    },
+    "open_ports": [
+      {
+        "port": 80,
+        "service": "HTTP",
+        "banner": "No banner",
+        "version": "Unknown",
+        "cves": []
+      },
+      {
+        "port": 443,
+        "service": "HTTPS",
+        "banner": "No banner",
+        "version": "Unknown",
+        "cves": []
+      }
+    ]
+  }
+}

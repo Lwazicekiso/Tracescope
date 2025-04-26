@@ -6,9 +6,9 @@ from internal_scan import run_internal_scan
 
 def print_banner():
     print(r"""
-╔════════════════════════════════════════════╗
-║        NETWORK RECONNAISSANCE TOOL         ║
-╚════════════════════════════════════════════╝
+╔══════════════════════════════╗
+║        NETWORK RECON         ║
+╚══════════════════════════════╝
     """)
 
 def main_menu():
