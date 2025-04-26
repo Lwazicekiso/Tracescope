@@ -1,4 +1,4 @@
-# Recon Tool
+# Tracescope Tool
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -16,7 +16,7 @@
 
 ## Project Overview
 
-**Recon Tool** is a Python-based, modular reconnaissance framework designed for both **internal** and **external** network assessments. It automates host discovery, port/service enumeration, OS fingerprinting, DNS and WHOIS lookups, web directory brute-forcing, and CVE vulnerability searches, producing structured JSON and human-readable TXT reports.
+**Tracescope Tool** is a Python-based, modular reconnaissance framework designed for both **internal** and **external** network assessments. It automates host discovery, port/service enumeration, OS fingerprinting, DNS and WHOIS lookups, web directory brute-forcing, and CVE vulnerability searches, producing structured JSON and human-readable TXT reports.
 
 By integrating proven open‑source utilities and Python libraries, Recon Tool provides a one‑stop solution for pen testers, red teams, and network administrators to rapidly gather insights about target environments.
 
