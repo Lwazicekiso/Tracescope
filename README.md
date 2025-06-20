@@ -122,9 +122,6 @@ You will see options:
 ```
 [1] Internal Scan
 [2] External Scan
-[3] Stealth Internal Scan
-[4] Vulnerability Scan
-[5] Exit
 ```
 
 ### Scan Types
