@@ -46,9 +46,9 @@ def run_external_scan(domain):
         except: pass
 
         report["dns"] = {
-            "A_records":  a_records,
-            "MX_records": mx_records,
-            "NS_records": ns_records
+            "Address_records":  a_records, 	#IP addresses behind the domain
+            "Mail_Exchange_records": mx_records, #These specify mail servers responsible for handling email for the domain.
+            "Name_Server_records": ns_records #These tell you which servers manage DNS for the domain.
         }
         print_status("✅ DNS records fetched.")
     except Exception as e:
