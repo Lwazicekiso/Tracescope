@@ -137,13 +137,6 @@ Alternatively, you can pass flags directly:
 python3 main.py --internal-scan
 python3 main.py --external-scan example.com --wordlist wordlists/gobuster/common.txt
 
-# Advanced scanning modes
-python3 main.py --stealth-scan 192.168.1.0/24
-python3 main.py --vuln-scan target.com
-python3 main.py --comprehensive-scan 10.0.0.0/24
-
-# Custom scan arguments
-python3 main.py --custom-scan target.com --nmap-args "-sV -sC --script exploit"
 ```
 
 ---
